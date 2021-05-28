@@ -12,7 +12,7 @@
 ### Connect with me:
 
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <br />
 
 ### Languages and Tools:
@@ -36,3 +36,4 @@
 
 [skintrial]: https://play.google.com/store/apps/details?id=com.frezzcoding.skincare
 [linkedin]: https://linkedin.com/in/oskarlasota
+[twitter]: https://twitter.com/frezzyygg
