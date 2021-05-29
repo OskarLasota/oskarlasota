@@ -7,8 +7,8 @@
 - 🌱 I’m currently focused on mastering all of the latest best practices
 - 👯 I'm open to collaborative projects
 - 🥅 2021 Goals: 
- 1) Complete implementing an iOS app
- 2) Complete implementing a Jetpack Compose app
+     1) Complete implementing an iOS app
+     2) Complete implementing a Jetpack Compose app
 - ⚡ Fun fact: I am a World Championship finalist (loser🤣) in a video-game called Smite
 
 ### Connect with me:
