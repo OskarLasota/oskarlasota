@@ -6,7 +6,7 @@
 - 🔭 My first app to reach 1,000+ downloads ! : [SkinTrial][skintrial]
 - 🌱 I’m currently focused on mastering all of the latest best practices
 - 👯 I'm open to collaborative projects
-- 🥅 2020 Goals: Complete implementing an iOS app
+- 🥅 2021 Goals: Complete implementing an iOS app
 - ⚡ Fun fact: I am a World Championship finalist (loser🤣) in a video-game called Smite
 
 ### Connect with me:
