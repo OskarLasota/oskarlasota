@@ -13,8 +13,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin.svg" />][linkedin]
-[<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://img.icons8.com/material-outlined/24/4a90e2/linkedin--v1.png" />][linkedin]
+[<img align="left" alt="twitter | Twitter" width="22px" src="https://img.icons8.com/ios-glyphs/30/4a90e2/twitter--v1.png" />][twitter]
 <br />
 
 ### Languages and Tools:
