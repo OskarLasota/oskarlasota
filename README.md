@@ -3,11 +3,11 @@
 
 ## I'm a Developer, Gamer and a wannabe Chef !
 
-- 🔭 My first app to reach 3,000+ downloads ! : [SkinTrial][skintrial]
+- 🔭 My first app to reach 4,000+ downloads ! : [SkinTrial][skintrial]
 - 🌱 I’m currently focused on mastering all of the latest android best practices
 - 👯 I'm open to collaborative projects
 - 🥅 2021 Goals: 
-     1) Complete implementing an iOS app
+     1) Complete implementing a Flutter app
      2) Complete implementing a Jetpack Compose app
 - ⚡ Fun fact: I am a World Championship finalist (loser🤣) in a video-game called Smite
 
