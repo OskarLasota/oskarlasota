@@ -11,6 +11,12 @@
      2) Complete implementing a Jetpack Compose app
 - ⚡ Fun fact: I am a World Championship finalist (loser🤣) in a video-game called Smite
 
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=oskarlasota&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=oskarlasota&theme=dark&hide_border=true" width = 400>
+</p>
+
 ### Connect with me:
 
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://img.icons8.com/material-outlined/24/4a90e2/linkedin--v1.png" />][linkedin]
