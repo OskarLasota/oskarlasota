@@ -3,7 +3,7 @@
 
 ## I'm a Developer, Gamer and a wannabe Chef !
 
-- 🔭 My first app to reach 4,000+ downloads ! : [SkinTrial][skintrial]
+- 🔭 My first app to reach 4,000+ downloads ! : [SkinTrial][skintrial] ( temporarily closed ) 
 - 🌱 I’m currently focused on mastering all of the latest android best practices
 - 👯 I'm open to collaborative projects
 - 🥅 2021 Goals: 
