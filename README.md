@@ -1,15 +1,11 @@
 ### Hi there, I'm Oskar  👋
 
+I'm a Developer, Gamer and a wannabe Chef! 
 
-## I'm a Developer, Gamer and a wannabe Chef !
+I've been nerding about for years but was first exposed to android in 2019 when I wanted to help my mother-in-law with an app for her business... 
 
-- 🔭 My first app to reach 4,000+ downloads ! : [SkinTrial][skintrial] ( temporarily closed ) 
-- 🌱 I’m currently focused on mastering all of the latest android best practices
-- 👯 I'm open to collaborative projects
-- 🥅 2021 Goals: 
-     1) Complete implementing a Flutter app
-     2) Complete implementing a Jetpack Compose app
-- ⚡ Fun fact: I am a World Championship finalist (loser🤣) in a video-game called Smite
+She doesn't use it, I don't think it was good enough :(  But with a couple of years of learning, I hope I could make a competent app now if she ever needs one 🤞
+
 
 
 <p align = "center">
