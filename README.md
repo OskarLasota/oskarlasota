@@ -1,10 +1,12 @@
 ### Hi there, I'm Oskar  👋
 
-Contributing to projects:
-
-    🏦 Whatsapp on Stereoids - App that clones whatsapp using good practices
-
 I am always interested in contributing to new projects, you can reach out to me :)
+
+**Contributing to projects:**
+
+- 🏦 Whatsapp on Stereoids - App that clones whatsapp using good practices
+
+
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=oskarlasota&show_icons=true&theme=bear" width = 400>
