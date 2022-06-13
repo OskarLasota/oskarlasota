@@ -1,12 +1,10 @@
 ### Hi there, I'm Oskar  👋
 
-I'm a Developer, Gamer and a wannabe Chef! 
+Contributing to projects:
 
-I've been nerding about for years but was first exposed to android in 2019 when I wanted to help my mother-in-law with an app for her business... 
+    🏦 Whatsapp on Stereoids - App that clones whatsapp using good practices
 
-She doesn't use it, I don't think it was good enough :(  But with a couple of years of learning, I hope I could make a competent app now if she ever needs one 🤞
-
-
+I am always interested in contributing to new projects, you can reach out to me :)
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=oskarlasota&show_icons=true&theme=bear" width = 400>
