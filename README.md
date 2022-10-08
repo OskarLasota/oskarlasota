@@ -2,6 +2,8 @@
 
 I am always interested in contributing to new projects, you can reach out to me :)
 
+WIP : Jetpack Compose
+
 **Contributing to projects:**
 
 - 🏦 Whatsapp on Stereoids - App that clones whatsapp using good practices
