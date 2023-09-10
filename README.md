@@ -2,6 +2,8 @@
 
 I am always interested in contributing to new projects, you can reach out to me :)
 
+Currently working on a Quiz app that is temporarily inside of a private repository until in good enough quality to showcase.
+
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=oskarlasota&show_icons=true&theme=bear" width = 400>
