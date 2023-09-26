@@ -1,8 +1,8 @@
 ### Hi there, I'm Oskar  👋
 
-I am always interested in contributing to new projects, you can reach out to me :)
+I am an Android Developer with 3 years of experience. Always interested in contributing to new projects and discussing ideas, feel free to reach out!
 
-Currently working on a Quiz app that is temporarily inside of a private repository until in good enough quality to showcase.
+Currently working on a Quiz app using some of the latest technologies to experiment and have fun.
 
 
 <p align = "left">
@@ -12,7 +12,6 @@ Currently working on a Quiz app that is temporarily inside of a private reposito
 ### Connect with me:
 
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://img.icons8.com/material-outlined/24/4a90e2/linkedin--v1.png" />][linkedin]
-[<img align="left" alt="twitter | Twitter" width="22px" src="https://img.icons8.com/ios-glyphs/30/4a90e2/twitter--v1.png" />][twitter]
 <br />
 
 ### Languages and Tools:
@@ -33,6 +32,4 @@ Currently working on a Quiz app that is temporarily inside of a private reposito
 
 ---
 
-[skintrial]: https://play.google.com/store/apps/details?id=com.frezzcoding.skincare
 [linkedin]: https://linkedin.com/in/oskarlasota
-[twitter]: https://twitter.com/frezzyygg
