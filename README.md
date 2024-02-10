@@ -1,6 +1,6 @@
 ### Hi there, I'm Oskar  👋
 
-I am an Android Developer with 3 years of experience. Always interested in contributing to new projects and discussing ideas, feel free to reach out!
+I am an Android Developer with 4 years of experience. Always interested in contributing to new projects and discussing ideas, feel free to reach out!
 
 Currently working on a Quiz app using some of the latest technologies to experiment and have fun.
 
