@@ -1,8 +1,6 @@
 ### Hi there, I'm Oskar  👋
 
-I am an Android Developer with 4 years of experience. Always interested in contributing to new projects and discussing ideas, feel free to reach out!
-
-Currently working on a Quiz app using some of the latest technologies to experiment and have fun.
+I am an Android Engineer with 5 years of experience. Currently focused on a modularised personal project using 100% compose.
 
 
 <p align = "left">
