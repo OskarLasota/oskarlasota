@@ -1,11 +1,6 @@
 ### Hi there, I'm Oskar  👋
 
-I am an Android Engineer with 5 years of experience. Currently focused on a modularised personal project using 100% compose.
-
-
-<p align = "left">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=oskarlasota&theme=dark&hide_border=true" width = 400>
-</p>
+Loading...
 
 ### Connect with me:
 
